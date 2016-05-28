@@ -1,962 +1,963 @@
 {
 
  "DifficultyTest1" : {
-		"parentTimestamp" : "0x6c902415be17de4a",
+		"parentTimestamp" : "0x2a9bd4b89acd4ece",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x6c902415be17de4a",
+		"currentTimestamp" : "0x2a9bd4b89acd4ece",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest2" : {
-		"parentTimestamp" : "0x23ac27cae2171b51",
+		"parentTimestamp" : "0xff8b9f46ec2fa67f",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x23ac27cae2171b52",
+		"currentTimestamp" : "0xff8b9f46ec2fa680",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest3" : {
-		"parentTimestamp" : "0x6e1bcb4be5f47851",
+		"parentTimestamp" : "0x3b3399a9779c6bc1",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x6e1bcb4be5f47859",
+		"currentTimestamp" : "0x3b3399a9779c6bc9",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest4" : {
-		"parentTimestamp" : "0x1479f60ec1697637",
+		"parentTimestamp" : "0x581eeae2d434d58a",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x1479f60ec1697641",
+		"currentTimestamp" : "0x581eeae2d434d594",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest5" : {
-		"parentTimestamp" : "0x285fd4fbba4f8500",
+		"parentTimestamp" : "0xe2bee82919a8e443",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x285fd4fbba4f850d",
+		"currentTimestamp" : "0xe2bee82919a8e450",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest6" : {
-		"parentTimestamp" : "0x710bd4ebb8d5a621",
+		"parentTimestamp" : "0x42f4aa3b0ae84bf5",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x710bd4ebb8d5a635",
+		"currentTimestamp" : "0x42f4aa3b0ae84c09",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest7" : {
-		"parentTimestamp" : "0xfdf1d619dd932ec1",
+		"parentTimestamp" : "0x0998a22a567ff26c",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xfdf1d619dd932f25",
+		"currentTimestamp" : "0x0998a22a567ff2d0",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest8" : {
-		"parentTimestamp" : "0xd64cca0b2c6a21f2",
+		"parentTimestamp" : "0x6221b745e92787ff",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xd64cca0b2c6a2512",
+		"currentTimestamp" : "0x6221b745e9278b1f",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest9" : {
-		"parentTimestamp" : "0xf140607637d08f03",
+		"parentTimestamp" : "0xf813543f6ee0a178",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xf140607637d092eb",
+		"currentTimestamp" : "0xf813543f6ee0a560",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest10" : {
-		"parentTimestamp" : "0x14a982c53923c7af",
+		"parentTimestamp" : "0xb531e7bc8e678df1",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x14a982c53923cd8b",
+		"currentTimestamp" : "0xb531e7bc8e6793cd",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest11" : {
-		"parentTimestamp" : "0xbcab322cd751563a",
+		"parentTimestamp" : "0xfc67d341dc2b2c35",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xbcab322cd751563a",
+		"currentTimestamp" : "0xfc67d341dc2b2c35",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest12" : {
-		"parentTimestamp" : "0x903378e83e3d740d",
+		"parentTimestamp" : "0x7b3a102b6144a518",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x903378e83e3d740e",
+		"currentTimestamp" : "0x7b3a102b6144a519",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest13" : {
-		"parentTimestamp" : "0xa59c9208ae52d7d9",
+		"parentTimestamp" : "0xbd6d262029b266a9",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xa59c9208ae52d7e1",
+		"currentTimestamp" : "0xbd6d262029b266b1",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest14" : {
-		"parentTimestamp" : "0x9a14a0eaf1bfbfdc",
+		"parentTimestamp" : "0x68678802d70e8a0a",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x9a14a0eaf1bfbfe6",
+		"currentTimestamp" : "0x68678802d70e8a14",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest15" : {
-		"parentTimestamp" : "0xd3a1ac0f9b9f3fb7",
+		"parentTimestamp" : "0x3e63d51a9a4c0abd",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xd3a1ac0f9b9f3fc4",
+		"currentTimestamp" : "0x3e63d51a9a4c0aca",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest16" : {
-		"parentTimestamp" : "0x53caa45600b969e7",
+		"parentTimestamp" : "0x9d71891857965e05",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x53caa45600b969fb",
+		"currentTimestamp" : "0x9d71891857965e19",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest17" : {
-		"parentTimestamp" : "0x531a466277cd544e",
+		"parentTimestamp" : "0x18f51afc47d620b3",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x531a466277cd54b2",
+		"currentTimestamp" : "0x18f51afc47d62117",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest18" : {
-		"parentTimestamp" : "0x824f1a188d4e8784",
+		"parentTimestamp" : "0xd171bc8d88724af7",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x824f1a188d4e8aa4",
+		"currentTimestamp" : "0xd171bc8d88724e17",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest19" : {
-		"parentTimestamp" : "0x88192af7e611bdd1",
+		"parentTimestamp" : "0x169a23f3b11856a1",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x88192af7e611c1b9",
+		"currentTimestamp" : "0x169a23f3b1185a89",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest20" : {
-		"parentTimestamp" : "0x9950b124b1209983",
+		"parentTimestamp" : "0xbcae69bd667bfae2",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x9950b124b1209f5f",
+		"currentTimestamp" : "0xbcae69bd667c00be",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest21" : {
-		"parentTimestamp" : "0x1eb03bc7578429ac",
+		"parentTimestamp" : "0x16a468d50e325fbd",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x1eb03bc7578429ac",
+		"currentTimestamp" : "0x16a468d50e325fbd",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest22" : {
-		"parentTimestamp" : "0xa2e4aca9927699b4",
+		"parentTimestamp" : "0xddc4a08378a6a40a",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xa2e4aca9927699b5",
+		"currentTimestamp" : "0xddc4a08378a6a40b",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest23" : {
-		"parentTimestamp" : "0x3c3e44b6c999d693",
+		"parentTimestamp" : "0x71d0ea8404472813",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x3c3e44b6c999d69b",
+		"currentTimestamp" : "0x71d0ea840447281b",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest24" : {
-		"parentTimestamp" : "0xee1e40f0b89a87ba",
+		"parentTimestamp" : "0x62a6a961ef3ac9a0",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xee1e40f0b89a87c4",
+		"currentTimestamp" : "0x62a6a961ef3ac9aa",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest25" : {
-		"parentTimestamp" : "0x9b4d6919a17e0eac",
+		"parentTimestamp" : "0xd53e4ceddce825f5",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x9b4d6919a17e0eb9",
+		"currentTimestamp" : "0xd53e4ceddce82602",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest26" : {
-		"parentTimestamp" : "0x6f274dc81b733460",
+		"parentTimestamp" : "0xe88684e638955776",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x6f274dc81b733474",
+		"currentTimestamp" : "0xe88684e63895578a",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest27" : {
-		"parentTimestamp" : "0xe81a2a226cd61f43",
+		"parentTimestamp" : "0x3cf1b8947281b1d1",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xe81a2a226cd61fa7",
+		"currentTimestamp" : "0x3cf1b8947281b235",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest28" : {
-		"parentTimestamp" : "0x84379a78c94059af",
+		"parentTimestamp" : "0xf2fa3dd1dca10977",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x84379a78c9405ccf",
+		"currentTimestamp" : "0xf2fa3dd1dca10c97",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest29" : {
-		"parentTimestamp" : "0xd8d2107921435a85",
+		"parentTimestamp" : "0x0b125e4046cba403",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xd8d2107921435e6d",
+		"currentTimestamp" : "0x0b125e4046cba7eb",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest30" : {
-		"parentTimestamp" : "0xaa19f33a2ee4fdc8",
+		"parentTimestamp" : "0xec7bd46be69f5c08",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xaa19f33a2ee503a4",
+		"currentTimestamp" : "0xec7bd46be69f61e4",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest31" : {
-		"parentTimestamp" : "0x25ef717ccb82b0a8",
+		"parentTimestamp" : "0x175f10b13b1e2b65",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x25ef717ccb82b0a8",
+		"currentTimestamp" : "0x175f10b13b1e2b65",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0f44a8"
 	},
 
  "DifficultyTest32" : {
-		"parentTimestamp" : "0x9e47e1564ee1cdac",
+		"parentTimestamp" : "0xe73f6d8f04ef4a3c",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x9e47e1564ee1cdad",
+		"currentTimestamp" : "0xe73f6d8f04ef4a3d",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0f44a8"
 	},
 
  "DifficultyTest33" : {
-		"parentTimestamp" : "0x29c9bad43f9c7c01",
+		"parentTimestamp" : "0x12de372bd80ef24a",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x29c9bad43f9c7c09",
+		"currentTimestamp" : "0x12de372bd80ef252",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0f44a8"
 	},
 
  "DifficultyTest34" : {
-		"parentTimestamp" : "0x7a44458e6928c260",
+		"parentTimestamp" : "0x2f80e80be0333192",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x7a44458e6928c26a",
+		"currentTimestamp" : "0x2f80e80be033319c",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0f42c0"
 	},
 
  "DifficultyTest35" : {
-		"parentTimestamp" : "0x79d4b6ce2b83f437",
+		"parentTimestamp" : "0x86717599343a13ce",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x79d4b6ce2b83f444",
+		"currentTimestamp" : "0x86717599343a13db",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0f42c0"
 	},
 
  "DifficultyTest36" : {
-		"parentTimestamp" : "0x234e36ca9a88938e",
+		"parentTimestamp" : "0x373c9ff28e83e2be",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x234e36ca9a8893a2",
+		"currentTimestamp" : "0x373c9ff28e83e2d2",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0f40d8"
 	},
 
  "DifficultyTest37" : {
-		"parentTimestamp" : "0x530ce7c2d2e9196d",
+		"parentTimestamp" : "0xe85962f6be115b9c",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x530ce7c2d2e919d1",
+		"currentTimestamp" : "0xe85962f6be115c00",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0f3198"
 	},
 
  "DifficultyTest38" : {
-		"parentTimestamp" : "0x84150443bfa593f8",
+		"parentTimestamp" : "0x4d81ffcb1ce0c705",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x84150443bfa59718",
+		"currentTimestamp" : "0x4d81ffcb1ce0ca25",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0eac28"
 	},
 
  "DifficultyTest39" : {
-		"parentTimestamp" : "0x3931ca32e075d03d",
+		"parentTimestamp" : "0x437c8a6ea19fba64",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x3931ca32e075d425",
+		"currentTimestamp" : "0x437c8a6ea19fbe4c",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0e8608"
 	},
 
  "DifficultyTest40" : {
-		"parentTimestamp" : "0x1aea44116f6ea7b0",
+		"parentTimestamp" : "0x9b627d18e1699e3d",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x1aea44116f6ead8c",
+		"currentTimestamp" : "0x9b627d18e169a419",
 		"currentBlockNumber" : "0x0dbba0",
 		"currentDifficulty" : "0x0e8608"
 	},
 
  "DifficultyTest41" : {
-		"parentTimestamp" : "0x928e4721944587ee",
+		"parentTimestamp" : "0x1001ba7da5a84ac6",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x928e4721944587ee",
+		"currentTimestamp" : "0x1001ba7da5a84ac6",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest42" : {
-		"parentTimestamp" : "0xd6aac3a186cd42e3",
+		"parentTimestamp" : "0xb29a279edf659879",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xd6aac3a186cd42e4",
+		"currentTimestamp" : "0xb29a279edf65987a",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest43" : {
-		"parentTimestamp" : "0x56ce11d61f150f92",
+		"parentTimestamp" : "0x64ce2e188a8daa6b",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x56ce11d61f150f9a",
+		"currentTimestamp" : "0x64ce2e188a8daa73",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest44" : {
-		"parentTimestamp" : "0x031f18a6223bf326",
+		"parentTimestamp" : "0x646474b58e383798",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x031f18a6223bf330",
+		"currentTimestamp" : "0x646474b58e3837a2",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest45" : {
-		"parentTimestamp" : "0x1daba9eed4187210",
+		"parentTimestamp" : "0x1c36fb34075bb311",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x1daba9eed418721d",
+		"currentTimestamp" : "0x1c36fb34075bb31e",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest46" : {
-		"parentTimestamp" : "0x81cdb72275a14465",
+		"parentTimestamp" : "0x553113e33b1895b6",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x81cdb72275a14479",
+		"currentTimestamp" : "0x553113e33b1895ca",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest47" : {
-		"parentTimestamp" : "0xc301fcf7595608eb",
+		"parentTimestamp" : "0xf26d7880bca789da",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xc301fcf75956094f",
+		"currentTimestamp" : "0xf26d7880bca78a3e",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest48" : {
-		"parentTimestamp" : "0x4972b7c419b96da1",
+		"parentTimestamp" : "0x1c396d40fe0f8185",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x4972b7c419b970c1",
+		"currentTimestamp" : "0x1c396d40fe0f84a5",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest49" : {
-		"parentTimestamp" : "0x53e0d58648227597",
+		"parentTimestamp" : "0x9227f367f5447691",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x53e0d5864822797f",
+		"currentTimestamp" : "0x9227f367f5447a79",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest50" : {
-		"parentTimestamp" : "0xdc15bd00e38b2498",
+		"parentTimestamp" : "0xb6b067a2b539b6ce",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xdc15bd00e38b2a74",
+		"currentTimestamp" : "0xb6b067a2b539bcaa",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest51" : {
-		"parentTimestamp" : "0x2a05c480075b6c4e",
+		"parentTimestamp" : "0x8e65f9b91b5f709c",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x2a05c480075b6c4e",
+		"currentTimestamp" : "0x8e65f9b91b5f709c",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest52" : {
-		"parentTimestamp" : "0x20b81944c54796bf",
+		"parentTimestamp" : "0x10c471066809f4be",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x20b81944c54796c0",
+		"currentTimestamp" : "0x10c471066809f4bf",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest53" : {
-		"parentTimestamp" : "0x9364d735ec48acb4",
+		"parentTimestamp" : "0xdeea3ca1a9e75315",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x9364d735ec48acbc",
+		"currentTimestamp" : "0xdeea3ca1a9e7531d",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest54" : {
-		"parentTimestamp" : "0xb187cfa7fbd9e064",
+		"parentTimestamp" : "0x1554bb15c5eecfae",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xb187cfa7fbd9e06e",
+		"currentTimestamp" : "0x1554bb15c5eecfb8",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest55" : {
-		"parentTimestamp" : "0xc3511ea18f08f2e7",
+		"parentTimestamp" : "0x1061b6e6dd345ae7",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xc3511ea18f08f2f4",
+		"currentTimestamp" : "0x1061b6e6dd345af4",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest56" : {
-		"parentTimestamp" : "0xdaa070bf8c1c2c77",
+		"parentTimestamp" : "0x2ac09e79aaf4da0a",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xdaa070bf8c1c2c8b",
+		"currentTimestamp" : "0x2ac09e79aaf4da1e",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest57" : {
-		"parentTimestamp" : "0xde738ba15cf7d446",
+		"parentTimestamp" : "0xcb60f6057bbc2ad7",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xde738ba15cf7d4aa",
+		"currentTimestamp" : "0xcb60f6057bbc2b3b",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest58" : {
-		"parentTimestamp" : "0xb312eccbe9d376c8",
+		"parentTimestamp" : "0xaff2ad48dcafff75",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xb312eccbe9d379e8",
+		"currentTimestamp" : "0xaff2ad48dcb00295",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest59" : {
-		"parentTimestamp" : "0x5c8b82b75453d8fe",
+		"parentTimestamp" : "0xa564ae014876ae9f",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x5c8b82b75453dce6",
+		"currentTimestamp" : "0xa564ae014876b287",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest60" : {
-		"parentTimestamp" : "0x18c104108cf700a2",
+		"parentTimestamp" : "0x0f1a9f65c28f4d8a",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x18c104108cf7067e",
+		"currentTimestamp" : "0x0f1a9f65c28f5366",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest61" : {
-		"parentTimestamp" : "0x781625a6d2f525e0",
+		"parentTimestamp" : "0xd9095d37cbebe69f",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x781625a6d2f525e0",
+		"currentTimestamp" : "0xd9095d37cbebe69f",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest62" : {
-		"parentTimestamp" : "0x15e5c9e5058102df",
+		"parentTimestamp" : "0x821747b5d3802f3a",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x15e5c9e5058102e0",
+		"currentTimestamp" : "0x821747b5d3802f3b",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest63" : {
-		"parentTimestamp" : "0x64c4eec8fe6a1775",
+		"parentTimestamp" : "0x35fac734bf821666",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x64c4eec8fe6a177d",
+		"currentTimestamp" : "0x35fac734bf82166e",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest64" : {
-		"parentTimestamp" : "0x4a0c16ae01830f30",
+		"parentTimestamp" : "0x6132d63d599b4362",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x4a0c16ae01830f3a",
+		"currentTimestamp" : "0x6132d63d599b436c",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest65" : {
-		"parentTimestamp" : "0xe5c8b5e401f87c10",
+		"parentTimestamp" : "0xe32322999ad2c281",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xe5c8b5e401f87c1d",
+		"currentTimestamp" : "0xe32322999ad2c28e",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest66" : {
-		"parentTimestamp" : "0xfa494698ff3b85ea",
+		"parentTimestamp" : "0x1edb67b75e73087a",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xfa494698ff3b85fe",
+		"currentTimestamp" : "0x1edb67b75e73088e",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest67" : {
-		"parentTimestamp" : "0x961e467657d7ca4d",
+		"parentTimestamp" : "0x1ed3739d49848766",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x961e467657d7cab1",
+		"currentTimestamp" : "0x1ed3739d498487ca",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest68" : {
-		"parentTimestamp" : "0x3e927ad603903ad7",
+		"parentTimestamp" : "0xff34dd7aa629a172",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x3e927ad603903df7",
+		"currentTimestamp" : "0xff34dd7aa629a492",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest69" : {
-		"parentTimestamp" : "0xa34121fbd12cb7f3",
+		"parentTimestamp" : "0x11bbfdcd54304e90",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xa34121fbd12cbbdb",
+		"currentTimestamp" : "0x11bbfdcd54305278",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest70" : {
-		"parentTimestamp" : "0xb24ada5a25f6c5e7",
+		"parentTimestamp" : "0x3d17025e6d57507a",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xb24ada5a25f6cbc3",
+		"currentTimestamp" : "0x3d17025e6d575656",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest71" : {
-		"parentTimestamp" : "0xd78b456accb548ef",
+		"parentTimestamp" : "0x6cdaf8277c158cb4",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0xd78b456accb548ef",
+		"currentTimestamp" : "0x6cdaf8277c158cb4",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0f4528"
 	},
 
  "DifficultyTest72" : {
-		"parentTimestamp" : "0xefba6ef71bb0b221",
+		"parentTimestamp" : "0x169555ffabba8ecc",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0xefba6ef71bb0b222",
+		"currentTimestamp" : "0x169555ffabba8ecd",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0f4528"
 	},
 
  "DifficultyTest73" : {
-		"parentTimestamp" : "0x0824fb0bfd41886d",
+		"parentTimestamp" : "0x96fe471d6374954b",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x0824fb0bfd418875",
+		"currentTimestamp" : "0x96fe471d63749553",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0f4528"
 	},
 
  "DifficultyTest74" : {
-		"parentTimestamp" : "0xc24506b9965c2c7e",
+		"parentTimestamp" : "0x763e731eb2c3f484",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0xc24506b9965c2c88",
+		"currentTimestamp" : "0x763e731eb2c3f48e",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0f4340"
 	},
 
  "DifficultyTest75" : {
-		"parentTimestamp" : "0xfcab77c17347c126",
+		"parentTimestamp" : "0x018815ebe43f0c4d",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0xfcab77c17347c133",
+		"currentTimestamp" : "0x018815ebe43f0c5a",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0f4340"
 	},
 
  "DifficultyTest76" : {
-		"parentTimestamp" : "0xbb853589a2aee41b",
+		"parentTimestamp" : "0xd461097d8caf7b3b",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0xbb853589a2aee42f",
+		"currentTimestamp" : "0xd461097d8caf7b4f",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0f4158"
 	},
 
  "DifficultyTest77" : {
-		"parentTimestamp" : "0xb8ed36b791d9ab8e",
+		"parentTimestamp" : "0xe235f8c65e096c43",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0xb8ed36b791d9abf2",
+		"currentTimestamp" : "0xe235f8c65e096ca7",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0f3218"
 	},
 
  "DifficultyTest78" : {
-		"parentTimestamp" : "0xf5e5d1a69ac25a66",
+		"parentTimestamp" : "0x718f76115b79206f",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0xf5e5d1a69ac25d86",
+		"currentTimestamp" : "0x718f76115b79238f",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0eaca8"
 	},
 
  "DifficultyTest79" : {
-		"parentTimestamp" : "0x571ff39b0ff5b52c",
+		"parentTimestamp" : "0x4dab98415157f5d5",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x571ff39b0ff5b914",
+		"currentTimestamp" : "0x4dab98415157f9bd",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0e8688"
 	},
 
  "DifficultyTest80" : {
-		"parentTimestamp" : "0x3f5cd54a8c52a0ca",
+		"parentTimestamp" : "0x117b172f1710e9ce",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x3f5cd54a8c52a6a6",
+		"currentTimestamp" : "0x117b172f1710efaa",
 		"currentBlockNumber" : "0x0f4240",
 		"currentDifficulty" : "0x0e8688"
 	},
 
  "DifficultyTest81" : {
-		"parentTimestamp" : "0xb43038bcc4a45f07",
+		"parentTimestamp" : "0x07493648e14196e5",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xb43038bcc4a45f07",
+		"currentTimestamp" : "0x07493648e14196e5",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest82" : {
-		"parentTimestamp" : "0xc61e415d1d00b43a",
+		"parentTimestamp" : "0xf660585b69406276",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xc61e415d1d00b43b",
+		"currentTimestamp" : "0xf660585b69406277",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest83" : {
-		"parentTimestamp" : "0xc54b50335ada800c",
+		"parentTimestamp" : "0xffce7743c32d45d3",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xc54b50335ada8014",
+		"currentTimestamp" : "0xffce7743c32d45db",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest84" : {
-		"parentTimestamp" : "0x349708a921134857",
+		"parentTimestamp" : "0x8fa6f134bb941879",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x349708a921134861",
+		"currentTimestamp" : "0x8fa6f134bb941883",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest85" : {
-		"parentTimestamp" : "0x736e37adf844112c",
+		"parentTimestamp" : "0xb943313a2b80f46d",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x736e37adf8441139",
+		"currentTimestamp" : "0xb943313a2b80f47a",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest86" : {
-		"parentTimestamp" : "0xbb7aabdebd6b2617",
+		"parentTimestamp" : "0x8d52a28f94dd4525",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xbb7aabdebd6b262b",
+		"currentTimestamp" : "0x8d52a28f94dd4539",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest87" : {
-		"parentTimestamp" : "0x63df1a22ec908265",
+		"parentTimestamp" : "0xcf0de2fdce945747",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x63df1a22ec9082c9",
+		"currentTimestamp" : "0xcf0de2fdce9457ab",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest88" : {
-		"parentTimestamp" : "0x51e6485564f9ddf5",
+		"parentTimestamp" : "0xe31018a494dcaea6",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x51e6485564f9e115",
+		"currentTimestamp" : "0xe31018a494dcb1c6",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest89" : {
-		"parentTimestamp" : "0xb495f1e344b22794",
+		"parentTimestamp" : "0xb1f254b40a7cb767",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0xb495f1e344b22b7c",
+		"currentTimestamp" : "0xb1f254b40a7cbb4f",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest90" : {
-		"parentTimestamp" : "0x06219767307f0af2",
+		"parentTimestamp" : "0x9a2481f3c33613ed",
 		"parentDifficulty" : "0x03e8",
-		"currentTimestamp" : "0x06219767307f10ce",
+		"currentTimestamp" : "0x9a2481f3c33619c9",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest91" : {
-		"parentTimestamp" : "0xfcded89f8309893d",
+		"parentTimestamp" : "0x38a18cd7f7bb10e7",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xfcded89f8309893d",
+		"currentTimestamp" : "0x38a18cd7f7bb10e7",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest92" : {
-		"parentTimestamp" : "0x3c3a69cf52574ab9",
+		"parentTimestamp" : "0x55ce1e166eadb702",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x3c3a69cf52574aba",
+		"currentTimestamp" : "0x55ce1e166eadb703",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest93" : {
-		"parentTimestamp" : "0x8fdbf4829959f5b5",
+		"parentTimestamp" : "0xadf2bfa3ff22b23c",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x8fdbf4829959f5bd",
+		"currentTimestamp" : "0xadf2bfa3ff22b244",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest94" : {
-		"parentTimestamp" : "0x12e03742c21a9bc7",
+		"parentTimestamp" : "0x4e8e025503dd7281",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x12e03742c21a9bd1",
+		"currentTimestamp" : "0x4e8e025503dd728b",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest95" : {
-		"parentTimestamp" : "0x2f5e91a0fe73e68c",
+		"parentTimestamp" : "0x6673554876069a5c",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x2f5e91a0fe73e699",
+		"currentTimestamp" : "0x6673554876069a69",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest96" : {
-		"parentTimestamp" : "0x2ecf82feaa8f1ecb",
+		"parentTimestamp" : "0xe26fad5d08849e05",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x2ecf82feaa8f1edf",
+		"currentTimestamp" : "0xe26fad5d08849e19",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest97" : {
-		"parentTimestamp" : "0xffd0f2c2de165349",
+		"parentTimestamp" : "0xf8ee1fd7d2bab44e",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xffd0f2c2de1653ad",
+		"currentTimestamp" : "0xf8ee1fd7d2bab4b2",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest98" : {
-		"parentTimestamp" : "0xcef67f9d33f917cd",
+		"parentTimestamp" : "0x24db5e810502c166",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0xcef67f9d33f91aed",
+		"currentTimestamp" : "0x24db5e810502c486",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest99" : {
-		"parentTimestamp" : "0x836b74a489159ca4",
+		"parentTimestamp" : "0xb7dc6291867fd70c",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x836b74a48915a08c",
+		"currentTimestamp" : "0xb7dc6291867fdaf4",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest100" : {
-		"parentTimestamp" : "0x4b283a040a6a0e97",
+		"parentTimestamp" : "0xcff36f31253ed3b0",
 		"parentDifficulty" : "0x0800",
-		"currentTimestamp" : "0x4b283a040a6a1473",
+		"currentTimestamp" : "0xcff36f31253ed98c",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest101" : {
-		"parentTimestamp" : "0x78ef270b591360f4",
+		"parentTimestamp" : "0xf90a01dbf6c69a52",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x78ef270b591360f4",
+		"currentTimestamp" : "0xf90a01dbf6c69a52",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest102" : {
-		"parentTimestamp" : "0x27af10e273ca676c",
+		"parentTimestamp" : "0x32cf4bb18501a475",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x27af10e273ca676d",
+		"currentTimestamp" : "0x32cf4bb18501a476",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest103" : {
-		"parentTimestamp" : "0xe0b89b90be1a3049",
+		"parentTimestamp" : "0xd67672c34ee3b2c1",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xe0b89b90be1a3051",
+		"currentTimestamp" : "0xd67672c34ee3b2c9",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest104" : {
-		"parentTimestamp" : "0x13df70a0dbffa5ea",
+		"parentTimestamp" : "0xf5fd76b20cd19ea8",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x13df70a0dbffa5f4",
+		"currentTimestamp" : "0xf5fd76b20cd19eb2",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest105" : {
-		"parentTimestamp" : "0xb9702ef356a58224",
+		"parentTimestamp" : "0x1945224da8f52d0d",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xb9702ef356a58231",
+		"currentTimestamp" : "0x1945224da8f52d1a",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest106" : {
-		"parentTimestamp" : "0x01810666b61342e4",
+		"parentTimestamp" : "0x31bf09b203a8c20c",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x01810666b61342f8",
+		"currentTimestamp" : "0x31bf09b203a8c220",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest107" : {
-		"parentTimestamp" : "0x22cb596a035e0e7c",
+		"parentTimestamp" : "0x97752584539764f8",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0x22cb596a035e0ee0",
+		"currentTimestamp" : "0x977525845397655c",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest108" : {
-		"parentTimestamp" : "0xebf696844db522a6",
+		"parentTimestamp" : "0xc83128e4009347b5",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xebf696844db525c6",
+		"currentTimestamp" : "0xc83128e400934ad5",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest109" : {
-		"parentTimestamp" : "0xccfe2e5c570a4f53",
+		"parentTimestamp" : "0xfe58c4207b505727",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xccfe2e5c570a533b",
+		"currentTimestamp" : "0xfe58c4207b505b0f",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest110" : {
-		"parentTimestamp" : "0xe8bf2c10abc7dc97",
+		"parentTimestamp" : "0x92285ad7a66c41cf",
 		"parentDifficulty" : "0x0fa0",
-		"currentTimestamp" : "0xe8bf2c10abc7e273",
+		"currentTimestamp" : "0x92285ad7a66c47ab",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x020000"
 	},
 
  "DifficultyTest111" : {
-		"parentTimestamp" : "0x58940eecf729d206",
+		"parentTimestamp" : "0xadf640c27338e9bc",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x58940eecf729d206",
+		"currentTimestamp" : "0xadf640c27338e9bc",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0f4628"
 	},
 
  "DifficultyTest112" : {
-		"parentTimestamp" : "0x6fe062886386ec40",
+		"parentTimestamp" : "0x0594f6e842db91a9",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x6fe062886386ec41",
+		"currentTimestamp" : "0x0594f6e842db91aa",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0f4628"
 	},
 
  "DifficultyTest113" : {
-		"parentTimestamp" : "0x5b58e8debd087ac8",
+		"parentTimestamp" : "0x1aee4c1314245dc7",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x5b58e8debd087ad0",
+		"currentTimestamp" : "0x1aee4c1314245dcf",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0f4628"
 	},
 
  "DifficultyTest114" : {
-		"parentTimestamp" : "0x4ba6a3627cecbcf2",
+		"parentTimestamp" : "0xf67b500e2db3b8c0",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x4ba6a3627cecbcfc",
+		"currentTimestamp" : "0xf67b500e2db3b8ca",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0f4440"
 	},
 
  "DifficultyTest115" : {
-		"parentTimestamp" : "0x78a68aaf29bf39fb",
+		"parentTimestamp" : "0x1e417b9452409299",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x78a68aaf29bf3a08",
+		"currentTimestamp" : "0x1e417b94524092a6",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0f4440"
 	},
 
  "DifficultyTest116" : {
-		"parentTimestamp" : "0x2b2bde05cd7d946c",
+		"parentTimestamp" : "0x39c7f07e7df579e2",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x2b2bde05cd7d9480",
+		"currentTimestamp" : "0x39c7f07e7df579f6",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0f4258"
 	},
 
  "DifficultyTest117" : {
-		"parentTimestamp" : "0xcdf8e9c618e1145b",
+		"parentTimestamp" : "0x3bfc3b5957a929ff",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0xcdf8e9c618e114bf",
+		"currentTimestamp" : "0x3bfc3b5957a92a63",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0f3318"
 	},
 
  "DifficultyTest118" : {
-		"parentTimestamp" : "0x7e34b1b027c02ed1",
+		"parentTimestamp" : "0xd659f34da812b5bc",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x7e34b1b027c031f1",
+		"currentTimestamp" : "0xd659f34da812b8dc",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0eada8"
 	},
 
  "DifficultyTest119" : {
-		"parentTimestamp" : "0x8934169f12104354",
+		"parentTimestamp" : "0x6cb5fcafa352082b",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x8934169f1210473c",
+		"currentTimestamp" : "0x6cb5fcafa3520c13",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0e8788"
 	},
 
  "DifficultyTest120" : {
-		"parentTimestamp" : "0x2648e811172247d6",
+		"parentTimestamp" : "0x9e7884a4250ce4c2",
 		"parentDifficulty" : "0x0f4240",
-		"currentTimestamp" : "0x2648e81117224db2",
+		"currentTimestamp" : "0x9e7884a4250cea9e",
 		"currentBlockNumber" : "0x10c8e0",
 		"currentDifficulty" : "0x0e8788"
 	}
+
 }
